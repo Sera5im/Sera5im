@@ -64,18 +64,8 @@ AI agents assist with invariant generation, harness development, failure triage,
 * **Security Review Methodology**
   My approach to protocol scope, flow analysis, review layers, invariant drafting, verification, and AI-assisted security research.
 
-## Vulnerability Research
-
-I also perform security research against live protocols through bug bounty programs.
-
-**Immunefi:** [My Immunefi Profile](YOUR_IMMUNEFI_PROFILE_URL)
-
-Public write-ups and PoCs for responsibly disclosed findings will be added here when disclosure is permitted.
 
 ## Tools
 
 `Solidity` · `Foundry` · `Invariant Fuzzing` · `Stateful Fuzzing` · `AI-Assisted Security Research`
 
----
-
-**GitHub:** [Sera5im](https://github.com/Sera5im)
