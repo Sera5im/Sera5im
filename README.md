@@ -22,12 +22,6 @@ I focus on manual smart contract security review with an emphasis on bridges, cr
 4. Validate the strongest assumptions with PoCs and fuzzing.
 5. Reduce the result into a concise root cause, impact statement, and remediation direction.
 
-## Selected Work
-
-- [LayerZero V2 OFT Review](https://github.com/Sera5im/Sera5im-layerzero-v2-oft-review-en)
-- [Push Chain Cross-Chain Core Review](https://github.com/Sera5im/Sera5im-push-chain-cross-chain-core-review-en)
-- [Rhino.fi Deposit Policy Bypass Report](https://github.com/Sera5im/Sera5im-rhinofi-deposit-policy-bypass-report)
-- [Bridge Disclosed Issues Lab](https://github.com/Sera5im/Sera5im-bridge-disclosed-issues-lab)
 
 ## Working Style
 
