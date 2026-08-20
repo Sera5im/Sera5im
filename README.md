@@ -21,7 +21,8 @@ I focus on manual smart contract security review with an emphasis on bridges, cr
 3. Extract the invariants that should hold across those paths.
 4. Validate the strongest assumptions with PoCs and fuzzing.
 5. Reduce the result into a concise root cause, impact statement, and remediation direction.
-
+  More about my approach - 
+https://github.com/Sera5im/Sera5im-security-review-methodology-en
 
 ## Working Style
 
